@@ -1,1 +1,3 @@
 # DistributedVersionControlEx.
+
+sample of DVC 
